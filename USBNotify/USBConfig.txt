@@ -1,0 +1,3 @@
+OnInsert = SHOW
+OnRemove = SHOW
+OnQueryRemove = ASK
